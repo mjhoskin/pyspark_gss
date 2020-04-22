@@ -1,0 +1,34 @@
+department,division,budget
+HR,Admin,7852
+Finance,Admin,8541
+Legal,Admin,9656
+International,Admin,1913
+IT Services,Technical,7420
+Procurement,Admin,744
+R&D,Scientific,8389
+Software Engineering,Engineering,6109
+Systems Engineering,Engineering,6564
+Legacy,Technical,2581
+Space,Scientific,7505
+Transit,Engineering,7069
+Autonomy,Engineering,4060
+Air,Engineering,8712
+Maritime,Engineering,8480
+Customer Support,Admin,8293
+Training,Technical,5241
+Brexit,Admin,8886
+Planning,Admin,5484
+Executive,Admin,6967
+Applied Science,Scientific,4781
+Data Science,Scientific,7603
+Radio Communications,Scientific,3370
+Economic Statistics,Technical,9629
+Production,Engineering,4671
+Marketing,Admin,4989
+Accounting,Admin,3275
+Survey,Technical,4665
+Methodology,Technical,4644
+Deep Learning,Scientific,8420
+Graphics,Technical,9724
+Mail,Admin,4575
+Facilities Management,Admin,114

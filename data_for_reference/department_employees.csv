@@ -1,0 +1,34 @@
+department,division,employees
+HR,Admin,9
+Finance,Admin,10
+Legal,Admin,11
+International,Admin,2
+Procurement,Admin,1
+Customer Support,Admin,9
+Brexit,Admin,10
+Planning,Admin,6
+Executive,Admin,8
+Marketing,Admin,6
+Accounting,Admin,4
+Mail,Admin,5
+Facilities Management,Admin,0
+IT Services,Technical,43
+Legacy,Technical,15
+Training,Technical,30
+Economic Statistics,Technical,56
+Survey,Technical,27
+Methodology,Technical,27
+Graphics,Technical,56
+R&D,Scientific,86
+Space,Scientific,77
+Applied Science,Scientific,49
+Data Science,Scientific,78
+Radio Communications,Scientific,35
+Deep Learning,Scientific,86
+Software Engineering,Engineering,23
+Systems Engineering,Engineering,25
+Transit,Engineering,27
+Autonomy,Engineering,15
+Air,Engineering,33
+Maritime,Engineering,32
+Production,Engineering,18
